@@ -67,7 +67,7 @@ Project Structure
 
 Raw/processed dataset: Cleaned and structured accident data
 
-Screenshots: 
+Screenshots: "C:\Users\anjal\Documents\road analysis .jpg"
 
 README: Documentation of project overview, features, and usage
 
